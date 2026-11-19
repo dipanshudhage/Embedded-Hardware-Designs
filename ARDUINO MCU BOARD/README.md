@@ -1,7 +1,7 @@
 # ARDUINO MCU BOARD
 
 ## Overview
-Custom microcontroller board design created in KiCad, including schematic, PCB layout, and 3D views[cite: 4].
+Custom microcontroller board design created in KiCad, including schematic, PCB layout, and 3D views.
 
 ## Schematic & PCB Layout
 ![Schematic](ASSETS/ARDUINO%20MCU%20BOARD%20SCH.png)
