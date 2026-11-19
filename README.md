@@ -17,10 +17,6 @@ A collection of KiCad schematics, PCB layouts, and hardware design files coverin
 | `Serial-Basic-CH340C-and-USBC` | USB-C to UART serial interface using CH340C[cite: 3] | `.kicad_sch`, `.kicad_pcb`, `.kicad_pro`, `.kicad_prl`, `.step`[cite: 3] |
 | `TSH82 Configurable Op-Amp Board` | Configurable operational amplifier board using TSH82[cite: 3] | `.kicad_sch`, `.kicad_pcb`, `.kicad_pro`, `.kicad_prl`[cite: 3] |
 
-## Tools & Workflow
-* **EDA Suite:** KiCad (`.kicad_pro`, `.kicad_sch`, `.kicad_pcb`)[cite: 3]
-* **3D & Manufacturing Data:** STEP 3D model (`Serial-Basic-CH340C-and-USBC.step`) and CSV data (`ARDUINO PRO MINI.csv`)[cite: 3]
-
 ## How to Use
 1. Clone or download the repository to your local machine.
 2. Open any project folder and launch the `.kicad_pro` file in **KiCad** to inspect schematics, footprints, and PCB layouts[cite: 3].
